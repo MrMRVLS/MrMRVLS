@@ -1,4 +1,4 @@
 ### Hi there 👋
-uma passionate /gamerprogrammer
+uma passionate gamer/programmer
 
 ![](https://komarev.com/ghpvc/?username=MrMRVLS&label=VIEWS)
