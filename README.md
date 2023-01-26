@@ -3,9 +3,19 @@
 
 <p align="center"> <img src="https://media.tenor.com/mjTBpxxGig8AAAAS/sakurano-mimito-denonbu.gif" height="20%" width="20%" alt="MrMRVLS" /> </p>
 
+<br>
+
+- 💗 Backend is cool.
+- 🌱 I’m currently learning and _**.Lua & .Js**_.
+- 📑 I've studied _**B.Eng. (Hons) Software Engineering at the [University of Westminster, UK](https://www.westminster.ac.uk/) :gb:**_
+- 😏 Pronouns: _**Any suggestions would be welcome as long as it suits 👔 to me**_ 👦🏽...
+- 🔥 Fun fact: _**I've used to play video games 🎮**_.
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MrMRVLS&label=Profile%20Views&color=AB61FF&style=flat" alt="MrMRVLS" /> </p>
+
 ---
 
-#### 📜 Languages & Technologies I've Used:
+#### 📜 Tools & Technologies I've Used:
 
 <div>
   <p align="center">
@@ -22,11 +32,9 @@
       <a href="https://mongodb.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="45"/></a>
       <a href="https://jetbrains.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="45" height="45"/></a>
       <a href="https://code.visualstudio.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/></a>
+      <a href="https://notepad-plus-plus.org/" target="blank"><img src="https://notepad-plus-plus.org/images/logo.svg" alt="notepad-plus-plus" width="45" height="45"/></a>
       <a href="https://git-scm.com/doc" target="blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
       <a href="https://github.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="45" height="45"/></a>
       <a href="https://www.gnu.org/software/bash/" target="blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bashshell" width="45" height="45"/></a>
   </p>
 </div>
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MrMRVLS&label=Profile%20Views&color=AB61FF&style=flat" alt="MrMRVLS" /> </p>
