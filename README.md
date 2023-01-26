@@ -6,7 +6,7 @@
 <br>
 
 - 💗 Backend is cool.
-- 🌱 I’m currently learning and _**.Lua & .Js**_.
+- 🌱 I’m currently learning _**.Lua & .Js**_.
 - 📑 I've studied _**B.Eng. (Hons) Software Engineering at the [University of Westminster, UK](https://www.westminster.ac.uk/) :gb:**_
 - 😏 Pronouns: _**Any suggestions would be welcome as long as it suits 👔 to me**_ 👦🏽...
 - 🔥 Fun fact: _**I've used to play video games 🎮**_.
