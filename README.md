@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋🏽, I'm Mr.Marvellous.</h1>
-<h3 align="center">I'm a self-taught passionate developer from Earth. 🌎</h3>
+<h3 align="center">I'm a self-taught passionate developer from Omicron Persei. ☄️</h3>
 
 <p align="center"> <img src="https://media.tenor.com/mjTBpxxGig8AAAAS/sakurano-mimito-denonbu.gif" height="20%" width="20%" alt="MrMRVLS" /> </p>
 
 <br>
 
-- 💗 Backend is cool.
+- 💖 Backend is cool.
 - 🌱 I’m currently learning _**.Lua & .Js**_.
-- 📑 I've studied _**B.Eng. (Hons) Software Engineering at the [University of Westminster, UK](https://www.westminster.ac.uk/) :gb:**_
-- 😏 Pronouns: _**Any suggestions would be welcome as long as it suits 👔 to me**_ 👦🏽...
+- 📚 I've studied _**B.Eng. (Hons) Software Engineering.**_
+- 😏 Pronouns: _**Any suggestions would be welcome as long as it suits 👔 to me**_ 👦🏻...
 - 🔥 Fun fact: _**I've used to play video games 🎮**_.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MrMRVLS&label=Profile%20Views&color=AB61FF&style=flat" alt="MrMRVLS" /> </p>
