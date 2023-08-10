@@ -13,11 +13,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MrMRVLS&label=Profile%20Views&color=AB61FF&style=flat" alt="MrMRVLS" /> </p>
 
-### ☘ Discord Status
-<a href="https://discord.com/users/378621856422297602">
-<img height="60px" src="https://discord.c99.nl/widget/theme-4/378621856422297602.png" />
-</a>
-
 ---
 
 #### 📜 Tools & Technologies I've Used:
